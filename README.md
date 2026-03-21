@@ -1,2 +1,3 @@
-# auto-iot-platform-7dfa
+# Auto Iot Platform 7Dfa
+
 A repository to test GitHub automation for issue management.
